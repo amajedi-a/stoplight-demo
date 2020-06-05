@@ -1,15 +1,10 @@
 {
   "formats": {
+    "openapi": {
+      "rootDir": "apis"
+    },
     "markdown": {
-      "rootDir": "docs/",
-      "include": ["**", "petstore"]
-    },
-    "image": {
-      "rootDir": "docs/image/",
-      "include": ["**"]
-    },
-    "json_schema": {
-      "rootDir": "schemas/",
+      "rootDir": "apis/**/docs",
       "include": ["**"]
     }
   }
