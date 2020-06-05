@@ -5,7 +5,7 @@
     },
     "markdown": {
       "rootDir": "apis",
-      "include": ["**"]
+      "include": ["petstore/docs", "todos/docs"]
     }
   }
 }
