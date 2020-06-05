@@ -1,6 +1,7 @@
 {
   "formats": {
     "openapi": {
+      "rootDir": "**",
       "include": ["**"]
     },
     "markdown": {
