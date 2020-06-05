@@ -5,7 +5,10 @@
     },
     "markdown": {
       "rootDir": ".",
-      "include": ["petstore/docs", "todos/docs"]
+      "include": [
+        "./**/petstore/docs/",
+        "./**/todos/docs/"
+      ]
     }
   }
 }
