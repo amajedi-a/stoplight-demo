@@ -1,11 +1,11 @@
 {
   "formats": {
     "openapi": {
-      "rootDir": "apis"
+      "rootDir": "."
     },
     "markdown": {
       "rootDir": "apis",
-      "include": ["petstore/docs", "todos/docs"]
+      "include": ["**"]
     }
   }
 }
