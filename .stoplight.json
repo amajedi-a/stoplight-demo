@@ -4,7 +4,7 @@
       "rootDir": "apis"
     },
     "markdown": {
-      "rootDir": "apis//",
+      "rootDir": "apis",
       "include": ["**"]
     }
   }
