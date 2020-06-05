@@ -2,7 +2,7 @@
   "formats": {
     "markdown": {
       "rootDir": "docs/",
-      "include": ["**"]
+      "include": ["**", "petstore"]
     },
     "image": {
       "rootDir": "docs/image/",
